@@ -91,11 +91,4 @@ Then open your browser at **[http://localhost:8501/](http://localhost:8501/)**.
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License. Feel free to use and modify it.
-
-```
-
-Do you want me to also create a **requirements.txt** for you so you can upload both files to GitHub?
-```
